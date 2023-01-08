@@ -1,0 +1,151 @@
+﻿convert_from,convert_to,to_foreign_rate,convert_usd_to_foreign,to_usd_rate,convert_foreign_to_usd
+US Dollar,Albanian Lek,107.35,USD ALL,0.009,ALL USD
+US Dollar,British Pound,0.83,USD GBP,1.205,GBP USD
+US Dollar,Bulgarian Lev,1.841,USD BGN,0.543,BGN USD
+US Dollar,Croatian Kuna,7.1,USD HRK,0.141,HRK USD
+US Dollar,Czech Koruna,22.793,USD CZK,0.044,CZK USD
+US Dollar,Danish Krone,7.007,USD DKK,0.143,DKK USD
+US Dollar,Euro,0.937,USD EUR,1.067,EUR USD
+US Dollar,Hungarian Forint,377.27,USD HUF,0.003,HUF USD
+US Dollar,Icelandic Krona,143.46,USD ISK,0.007,ISK USD
+US Dollar,Kazakhstan Tenge,461.71,USD KZT,0.002,KZT USD
+US Dollar,Macedonian Denar,57.969,USD MKD,0.017,MKD USD
+US Dollar,Moldovan Leu,19.199,USD MDL,0.052,MDL USD
+US Dollar,Norwegian Krone,9.931,USD NOK,0.101,NOK USD
+US Dollar,Polish Zloty,4.371,USD PLN,0.229,PLN USD
+US Dollar,Romanian Leu,4.627,USD RON,0.216,RON USD
+US Dollar,Russian Rouble,70.25,USD RUB,0.014,RUB USD
+US Dollar,Swedish Krona,10.532,USD SEK,0.095,SEK USD
+US Dollar,Swiss Franc,0.933,USD CHF,1.071,CHF USD
+US Dollar,Turkish Lira,18.666,USD TRY,0.054,TRY USD
+US Dollar,Ukraine Hryvnia,36.924,USD UAH,0.027,UAH USD
+US Dollar,Argentine Peso,173.94,USD ARS,0.006,ARS USD
+US Dollar,Aruba Florin,1.802,USD AWG,0.555,AWG USD
+US Dollar,Bahamian Dollar,1,USD BSD,1,BSD USD
+US Dollar,Barbadian Dollar,2,USD BBD,0.5,BBD USD
+US Dollar,Belize Dollar,2.015,USD BZD,0.496,BZD USD
+US Dollar,Bermuda Dollar,1,USD BMD,1,BMD USD
+US Dollar,Bolivian Boliviano,6.909,USD BOB,0.145,BOB USD
+US Dollar,Brazilian Real,5.166,USD BRL,0.194,BRL USD
+US Dollar,Canadian Dollar,1.364,USD CAD,0.733,CAD USD
+US Dollar,Cayman Islands Dollar,0.833,USD KYD,1.2,KYD USD
+US Dollar,Chilean Peso,878,USD CLP,0.001,CLP USD
+US Dollar,Colombian Peso,4734.1,USD COP,0.00021,COP USD
+US Dollar,Costa Rica Colon,581.87,USD CRC,0.002,CRC USD
+US Dollar,Dominican Peso,55.75,USD DOP,0.018,DOP USD
+US Dollar,East Caribbean Dollar,2.703,USD XCD,0.37,XCD USD
+US Dollar,El Salvador Colon,8.749,USD SVC,0.114,SVC USD
+US Dollar,Fiji Dollar,2.232,USD FJD,0.448,FJD USD
+US Dollar,Guatemala Quetzal,7.857,USD GTQ,0.127,GTQ USD
+US Dollar,Haiti Gourde,146.98,USD HTG,0.007,HTG USD
+US Dollar,Honduras Lempira,24.68,USD HNL,0.041,HNL USD
+US Dollar,Jamaican Dollar,152.39,USD JMD,0.007,JMD USD
+US Dollar,Mexican Peso,19.374,USD MXN,0.052,MXN USD
+US Dollar,Neth Antilles Guilder,1.802,USD ANG,0.555,ANG USD
+US Dollar,Panamanian Balboa,1,USD PAB,1,PAB USD
+US Dollar,Paraguayan Guarani,7307.3,USD PYG,0.000137,PYG USD
+US Dollar,Peruvian Nuevo Sol,3.803,USD PEN,0.263,PEN USD
+US Dollar,Swaziland Lilageni,16.99,USD SZL,0.059,SZL USD
+US Dollar,Trinidad Tobago Dollar,6.787,USD TTD,0.147,TTD USD
+US Dollar,Uruguayan New Peso,38.609,USD UYU,0.026,UYU USD
+US Dollar,Australian Dollar,1.488,USD AUD,0.672,AUD USD
+US Dollar,Bangladesh Taka,105.83,USD BDT,0.009,BDT USD
+US Dollar,Bhutan Ngultrum,82.811,USD BTN,0.012,BTN USD
+US Dollar,Brunei Dollar,1.35,USD BND,0.741,BND USD
+US Dollar,Chinese Yuan,6.99,USD CNY,0.143,CNY USD
+US Dollar,Indian Rupee,82.604,USD INR,0.012,INR USD
+US Dollar,Indonesian Rupiah,15582,USD IDR,0.000064,IDR USD
+US Dollar,Japanese Yen,132.76,USD JPY,0.008,JPY USD
+US Dollar,Macau Pataca,8.034,USD MOP,0.124,MOP USD
+US Dollar,Malaysian Ringgit,4.425,USD MYR,0.226,MYR USD
+US Dollar,Maldives Rufiyaa,15.4,USD MVR,0.065,MVR USD
+US Dollar,Nepalese Rupee,132.49,USD NPR,0.008,NPR USD
+US Dollar,New Zealand Dollar,1.588,USD NZD,0.63,NZD USD
+US Dollar,Pacific Franc,111.86,USD XPF,0.009,XPF USD
+US Dollar,Pakistani Rupee,225.5,USD PKR,0.004,PKR USD
+US Dollar,Papua New Guinea Kina,3.52,USD PGK,0.284,PGK USD
+US Dollar,Philippine Peso,55.225,USD PHP,0.018,PHP USD
+US Dollar,Seychelles Rupee,13.248,USD SCR,0.075,SCR USD
+US Dollar,Singapore Dollar,1.351,USD SGD,0.74,SGD USD
+US Dollar,Solomon Islands Dollar,8.237,USD SBD,0.121,SBD USD
+US Dollar,South Korean Won,1280.2,USD KRW,0.001,KRW USD
+US Dollar,Sri Lankan Rupee,365.45,USD LKR,0.003,LKR USD
+US Dollar,Taiwan Dollar,30.76,USD TWD,0.033,TWD USD
+US Dollar,Thai Baht,34.755,USD THB,0.029,THB USD
+US Dollar,Vanuatu Vatu,118.04,USD VUV,0.008,VUV USD
+US Dollar,Bahraini Dinar,0.376,USD BHD,2.657,BHD USD
+US Dollar,Egyptian Pound,24.626,USD EGP,0.041,EGP USD
+US Dollar,Hong Kong Dollar,7.806,USD HKD,0.128,HKD USD
+US Dollar,Iran Rial,41700,USD IRR,0.000023,IRR USD
+US Dollar,Iraqi Dinar,1460.5,USD IQD,0.001,IQD USD
+US Dollar,Israeli Sheqel,3.502,USD ILS,0.286,ILS USD
+US Dollar,Jordanian Dinar,0.709,USD JOD,1.41,JOD USD
+US Dollar,Kuwaiti Dinar,0.306,USD KWD,3.263,KWD USD
+US Dollar,Lebanese Pound,1522,USD LBP,0.001,LBP USD
+US Dollar,Mongolian Tugrik,3406.9,USD MNT,0.00029,MNT USD
+US Dollar,Omani Rial,0.385,USD OMR,2.6,OMR USD
+US Dollar,Qatari Riyal,3.641,USD QAR,0.275,QAR USD
+US Dollar,Saudi Riyal,3.761,USD SAR,0.266,SAR USD
+US Dollar,United Arab Emirates Dirham,3.673,USD AED,0.272,AED USD
+US Dollar,Yemen Riyal,250.3,USD YER,0.004,YER USD
+US Dollar,Algerian Dinar,137.4,USD DZD,0.007,DZD USD
+US Dollar,Burundi Franc,2062,USD BIF,0.00048,BIF USD
+US Dollar,Central African CFA franc,614.93,USD XAF,0.002,XAF USD
+US Dollar,Comoros Franc,464.3,USD KMF,0.002,KMF USD
+US Dollar,Ethiopian Birr,53.625,USD ETB,0.019,ETB USD
+US Dollar,Gambian Dalasi,61.95,USD GMD,0.016,GMD USD
+US Dollar,Guinea Franc,8775,USD GNF,0.00011,GNF USD
+US Dollar,Kenyan Shilling,123.35,USD KES,0.008,KES USD
+US Dollar,Lesotho Loti,17.14,USD LSL,0.058,LSL USD
+US Dollar,Malawi Kwacha,1024.5,USD MWK,0.001,MWK USD
+US Dollar,Mauritius Rupee,44.19,USD MUR,0.023,MUR USD
+US Dollar,Moroccan Dirham,10.505,USD MAD,0.095,MAD USD
+US Dollar,Namibian Dollar,17.065,USD NAD,0.059,NAD USD
+US Dollar,Nicaragua Cordoba,36.41,USD NIO,0.027,NIO USD
+US Dollar,Nigerian Naira,446.63,USD NGN,0.002,NGN USD
+US Dollar,Rwanda Franc,1067,USD RWF,0.001,RWF USD
+US Dollar,Samoa Tala,2.698,USD WST,0.371,WST USD
+US Dollar,Sierra Leone Leone,17665,USD SLL,0.000053,SLL USD
+US Dollar,South African Rand,17.014,USD ZAR,0.059,ZAR USD
+US Dollar,Tanzanian Shilling,2333.6,USD TZS,0.00042,TZS USD
+US Dollar,Tonga Paanga,2.361,USD TOP,0.424,TOP USD
+US Dollar,Tunisian Dinar,3.135,USD TND,0.319,TND USD
+US Dollar,Ugandan Shilling,3639,USD UGX,0.00027,UGX USD
+US Dollar,West African CFA franc,614.93,USD XOF,0.002,XOF USD
+US Dollar,Afgan Afgani,86.97,USD,0.011,AFN USD
+US Dollar,Angolan Kwanza,503.87,USD,0.0019,AOA USD
+US Dollar,Azerbaijan Manat,1.699,USD,0.588,AZN USD
+US Dollar,Bosnian Convertible Mark,1.841,USD,0.542,BAM USD
+US Dollar,Botswana Pula,12.85,USD,0.0778,BWP USD
+US Dollar,Belarusian Ruble,2.525,USD,0.396,BYN USD
+US Dollar,Congolese Franc,1999,USD,0.0005,CDF USD
+US Dollar,Cuban Peso,23.99,USD,0.0417,CUP USD
+US Dollar,Cape Verdean Escudo,103.87,USD,0.0096,CVE USD
+US Dollar,Djiboutian Franc,178,USD,0.0056,DJF USD
+US Dollar,Georgian Lari,2.688,USD,0.371,GEL USD
+US Dollar,Ghanaian Cedi,9.758,USD,0.102,GHS USD
+US Dollar,Gibraltar Pound,0.828,USD,1.207,GIP USD
+US Dollar,Guyanese Dollar,208.82,USD,0.0047,GYD USD
+US Dollar,Isle of Man Pound,0.828,USD,1.207,IMP USD
+US Dollar,Jersey Pound,0.828,USD,1.207,JEP USD
+US Dollar,Kyrgyzstani Som,85.68,USD,0.0116,KGS USD
+US Dollar,Cambodian Riel ,4113.02,USD,0.00024,KHR USD
+US Dollar,Lao Kip,17286.7,USD,0.000057,LAK USD
+US Dollar,Libyan Dinar,4.819,USD,0.207,LYD USD
+US Dollar,Malagasy Ariary,4445.77,USD,0.00022,MGA USD
+US Dollar,Burmese Kyat,2099.18,USD,0.00047,MMK USD
+US Dollar,Mozambican Metical,63.73,USD,0.0156,MZN USD
+US Dollar,Serbian Dinar,110.51,USD,0.009,RSD USD
+US Dollar,Sudanese Pound,571.73,USD,0.0017,SDG USD
+US Dollar,Saint Helenian Pound,0.829,USD,1.205,SHP USD
+US Dollar,Somali Shilling,568.69,USD,0.0017,SOS USD
+US Dollar,Syrian Pound,2512.53,USD,0.00039,SYP USD
+US Dollar,Tajikistani Somoni,10.2,USD,0.098,TJS USD
+US Dollar,Turkmenistani Manat,3.5,USD,0.285,TMT USD
+US Dollar,US Dollar,1,USD,1,USD USD
+US Dollar,Uzbekistani Som,11232,USD,0.000089,UZS USD
+US Dollar,Venezuelan Bolívar,16.41,USD,0.0609,VES USD
+US Dollar,Vietnamese Dong,23565.8,USD,0.000042,VND USD
+US Dollar,IMF Special Drawing Rights,0.751,USD,1.33,XDR USD
+US Dollar,Zambian Kwacha ,18,USD,0.0555,ZMW USD
+US Dollar,Armenian Dram,391.01,USD,0.00255,AMD USD
