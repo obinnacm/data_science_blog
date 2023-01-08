@@ -23,7 +23,7 @@ stack_overflow_survey_22.ipynb: Jupyter notebook of all analysis.
 
 ## Results <a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@charlesobinet7/tech-skills-of-six-figure-paycheck-developers-6dd88b9d08b).
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
