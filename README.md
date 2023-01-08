@@ -27,6 +27,6 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
-Data for this project was provided by Stack Overflow.  You can find the data, its Licensing and other descriptive information at this Kaggle [link](https://www.kaggle.com/datasets/dheemanthbhat/stack-overflow-annual-developer-survey-2022).  
+Data for this project was provided by Stack Overflow.  You can find the data on Stack Overflow website using this [link](https://insights.stackoverflow.com/survey/?_ga=2.153060153.1044804860.1673206057-1926338853.1667838975), or on Kaggle with its Licensing and other descriptive information using this [link](https://www.kaggle.com/datasets/dheemanthbhat/stack-overflow-annual-developer-survey-2022).  
 
 The exchange rate used in conversion of developers compensation to USD was gotten from [XE](https://www.xe.com).
